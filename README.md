@@ -1,4 +1,4 @@
-tablishの挙動を確認してみただけ。
+[cucumber](http://github.com/cucumber/cucumber) tablishの挙動を確認してみただけ。
 
     $ cucumber
 
